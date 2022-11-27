@@ -1,0 +1,68 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link rel="stylesheet" href="src/public/stylesheets/style.css">
+</head>
+<body>
+    <div class="curved">
+        <h1 class="w3-twothirds">Link Admin</h1>
+        <p>A powerful all-in-one human resources management platform for your online communities.</p>
+        <a href="/webpages/login.html" class="login">Login<i class='bx bx-right-arrow-alt'
+                style='color:#dedede'></i></a>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 200">
+            <path fill="#FFF" fill-opacity="1"
+                d="M0,160L120,154.7C240,149,480,139,720,117.3C960,96,1200,64,1320,48L1440,32L1440,320L1320,320C1200,320,960,320,720,320C480,320,240,320,120,320L0,320Z">
+            </path>
+        </svg>
+    </div>
+    <!-- <div class="information-pallet-1">
+        <h1>RoManagement</h1>
+        <p>We offer services to Roblox group owners. Our services and features include an interactable dashboard,
+            Discord bot, integrations and more. We also offer custom features for those who need it.</p>
+        </p><br>
+    </div>
+    <div class="information-pallet-2">
+        <div class="left">
+            <i class='bx bx-server'></i>
+        </div>
+        <div class="right">
+            <h1 class="leftContent2 welp">Reliablity</h1>
+            <p class="leftContent welp">something about reliablity and boring stuff</p>
+        </div>
+    </div>
+    <div class="pricing">
+        <h1>Pricing and plans</h1>
+
+        <p id="mainContent">We offer pricing on plans for all community managers and owners. From free to premium we can
+            cater to all. We offer extra features to those who need it.</p>
+        <i class='bx bx-notepad' id="notepad"></i>
+
+        <br><br><br><br><a href="#" class="button">Get started<i class='icon bx bx-right-arrow-alt'></i></a>
+    </div>
+    <div class="socials">
+        <a href="https://www.youtube.com/channel/UCaBR4iE7k6iEdtRwetwAnnA">
+            <i class='bx bxl-youtube bx-burst-hover'></i>
+        </a>
+        <a href="https://discord.gg/r4XHX8hyAJ">
+            <i class='bx bxl-discord-alt bx-tada-hover'></i>
+        </a>
+        <a href="https://twitter.com/linksystemsrblx">
+            <i class='bx bxl-twitter bx-flashing-hover'></i>
+        </a>
+    </div> -->
+    <div class="information-pallet-3">
+        <p>©️LinkAdmin</p>
+        <p class="right">Email us at <a href="mailto:linkmanagementrblx@gmail.com">linkmanagementrblx@gmail.com</a></p>
+        <p class="right"><a href="#">TOS</a> | <a href="#">Privacy Policy</a></p>
+    </div>
+</body>
+</html>
